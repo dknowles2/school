@@ -1,3 +1,5 @@
+-- Author: dknowles2@gmail.com (David Knowles)
+
 with Ada.Text_IO;
 with Ada.Float_Text_IO;
 
